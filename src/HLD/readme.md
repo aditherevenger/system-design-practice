@@ -39,18 +39,18 @@ HLD/
 ## **📖 How to Use**
 1. Open any project folder (e.g., `project-food-delivery`).
 2. Check its `README.md` for:
-   - Functional and non-functional requirements.
-   - System architecture diagrams.
-   - Trade-offs and scalability discussion.
+    - Functional and non-functional requirements.
+    - System architecture diagrams.
+    - Trade-offs and scalability discussion.
 3. View diagrams in the `architecture/` folder.
 
 ---
 
 ## **📐 Diagrams**
 - Diagrams include:
-  - **System Design Diagrams** – Overall architecture and components.
-  - **Sequence Diagrams** – Request/response flow.
-  - **Data Flow Diagrams** – Storage and data movement.
+    - **System Design Diagrams** – Overall architecture and components.
+    - **Sequence Diagrams** – Request/response flow.
+    - **Data Flow Diagrams** – Storage and data movement.
 - Tools used: **Draw.io**, **Lucidchart**, **PlantUML**.
 
 ---
@@ -63,6 +63,6 @@ I learn HLD concepts from:
 ---
 
 ## **👤 Author**
-**Aditya Yadav**  
+**Aditya Yadav**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-yadav-1b36a2163/)

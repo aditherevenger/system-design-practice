@@ -41,10 +41,10 @@ LLD/
 ## **📖 How to Use**
 1. Navigate to any project folder.
 2. Read its `README.md` for:
-   - Problem statement
-   - Class diagrams
-   - Code structure
-   - Test instructions
+    - Problem statement
+    - Class diagrams
+    - Code structure
+    - Test instructions
 3. Run the tests:
    ```bash
    # Example (Modify based on language or test framework)
